@@ -36,7 +36,7 @@ import java.io.IOException;
 import java.io.InputStream;
 
 /**
- * @author Sergey Tarasevich (nostra13[at]gmail[dot]com)
+ * @author Sergey Tarasevich (nostra13[at]gmail[dot]com) 下载
  */
 public class HomeActivity extends Activity {
 
